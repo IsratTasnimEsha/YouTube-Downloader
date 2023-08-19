@@ -1,7 +1,5 @@
 # YouTube-Downloader
 
-# YouTube Video Downloader Application
-
 The **YouTube Video Downloader** is a Python GUI application that allows users to download YouTube videos. This application is built using the **Tkinter** library for the user interface and the **pytube** library to interact with YouTube and download videos.
 
 ## Features
