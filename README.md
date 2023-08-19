@@ -42,7 +42,6 @@ Watch a video demonstration of how the YouTube Video Downloader app works.
 
 - Israt Tasnim Esha
 
-## Acknowledgments
+## Acknowledgment
 
 - The **pytube** library: [pytube](https://github.com/nficano/pytube)
-
