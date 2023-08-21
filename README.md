@@ -38,11 +38,9 @@ Watch a video demonstration of how the YouTube Video Downloader app works.
 
 ## Author
 
-Israt Tasnim Esha,
-
-Dept. Of Computer Science And Engineering,
-
-Khulna University Of Engineering And Technology.
+**Israt Tasnim Esha**  
+*Department of Computer Science and Engineering*  
+*Khulna University of Engineering and Technology*
 
 ## Acknowledgment
 
