@@ -39,9 +39,4 @@ Watch a video demonstration of how the YouTube Video Downloader app works.
 ## Author
 
 **Israt Tasnim Esha**  
-*Department of Computer Science and Engineering*  
-*Khulna University of Engineering and Technology*
-
-## Acknowledgment
-
-- The **pytube** library: [pytube](https://github.com/nficano/pytube)
+**Year:** 2021
