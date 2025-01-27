@@ -34,6 +34,8 @@ The **YouTube Video Downloader** is a Python GUI application that allows users t
 
 Watch a video demonstration of how the YouTube Video Downloader app works.
 
+**Note:** Video quality has been reduced to meet GitHub README file size limitations.
+
 [![Video Demonstration](https://github.com/IsratTasnimEsha/YouTube-Downloader/assets/88322977/978f5473-7ef2-4945-9685-55a6d6759b4e)](https://github.com/IsratTasnimEsha/YouTube-Downloader/assets/88322977/978f5473-7ef2-4945-9685-55a6d6759b4e)
 
 ## Author
